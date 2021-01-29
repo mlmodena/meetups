@@ -1,4 +1,4 @@
-# Material dei meetup di ML Modena
+# Materiale dei meetup di ML Modena
 
 ## 2021
 
